@@ -1,0 +1,6 @@
+
+matplotlib==3.4.2
+numpy==1.21.1
+pywin32==301
+scipy==1.7.0
+
